@@ -1,0 +1,31 @@
+* {
+    font-family: 'Montserrat Alternates';
+    font-size: 25px;
+  }
+
+table tr td:nth-child(1) {
+    width: 250px;
+}
+
+table,tr,td{
+    margin: 10px;
+}
+
+.p{
+    border: 1px solid black;
+    padding: 9px 19px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+hr{
+    width: 100%;
+}
+
+.uploadF::before{
+    content: 'Upload Photo';
+}
+
+.uploadF::-webkit-file-upload-button {
+    visibility: hidden;
+  }

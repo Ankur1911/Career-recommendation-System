@@ -1,0 +1,43 @@
+body{
+    overflow: hidden;
+}
+
+.radio2{
+    margin: 0px;
+    padding: 0px;
+    width: 0px;
+}
+
+.in{
+    width: 350px;
+    background-color: transparent;
+}
+
+.dropdown{
+    width: 350px;
+    border: 2px solid #ACA8A2;
+}
+
+.radio2{
+    margin: 5px 6px 0px 22px;
+    height: 20px;
+    width: 20px;
+}
+
+.submit{
+    margin-top: 19px;
+}
+
+.testForm{
+    overflow: scroll;
+    height: 27%;
+    margin-top: 6px;
+}
+
+.testForm input{
+    margin-top: 5px;
+}
+
+.testForm::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, and Opera */
+}

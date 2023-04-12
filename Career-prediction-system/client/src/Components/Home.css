@@ -1,0 +1,68 @@
+.homeName {
+    position: absolute;
+    width: 900px;
+    height: 127px;
+    top: 142px;
+
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 104px;
+    line-height: 127px;
+    /* identical to box height */
+
+    background: linear-gradient(91.6deg, #252422 66.93%, #EB5E28 102.61%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.home_username {
+    position: absolute;
+    top: 40px;
+    right: 100px;
+
+
+}
+
+.home_username img {
+    height: 50px;
+    position: relative;
+    top: 15px;
+    left: 5px;
+}
+
+.homeName {
+    position: absolute;
+    top: 50px;
+    left: 180px;
+    font-weight: bold;
+}
+
+.career_img {
+    position: absolute;
+    width: 450px;
+    height: 450px;
+    right: 100px;
+    top: 269px;
+}
+
+.tagline {
+    position: absolute;
+    left: 190px;
+    top: 230px;
+    font-size: 35px;
+}
+
+.test_btn {
+    position: absolute;
+    width: 336px;
+    height: 83px;
+    left: 190px;
+    top: 350px;
+    background: #252222;
+    border-radius: 13px;
+    color: #FFFFFF;
+    border: none;
+}

@@ -1,0 +1,15 @@
+.box{
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.m{
+    display: flex;
+}
+
+.m a{
+    text-decoration: none;
+    color: black;
+}
